@@ -34,7 +34,7 @@ Contributing
 Contributions to improve and expand the project are welcome. Please follow the standard GitHub workflow:
 
 1. Fork the repository.
-2.Create a new branch for your feature or bug fix.
+2. Create a new branch for your feature or bug fix.
 3. Make changes and commit them.
 4. Push the changes to your fork.
 5. Create a pull request to the main repository.
