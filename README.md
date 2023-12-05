@@ -13,9 +13,7 @@ This repository is dedicated to tracking the spread of the invasive Spotted Lant
 ├── models                # Trained machine learning models
 ├── notebooks             # Jupyter notebooks for data exploration and model training
 ├── visualizations        # Visualizations of model predictions
-│   └── spread_prediction.pdf   # PDF file containing visualizations
-├── src                   # Source code for data preprocessing and model training
-├── requirements.txt      # Python dependencies
+│   └── tableu_visualizations.pdf   # PDF file containing visualizations
 ├── README.md             # Project readme file
 
 ```
