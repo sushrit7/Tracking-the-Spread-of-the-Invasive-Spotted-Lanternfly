@@ -28,7 +28,7 @@ Explore the visualizations folder to view PDF files containing visualizations of
  **Clone the Repository**: Clone the Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly repository to your local machine.
 
    ```bash
-   git clone https://github.com/sushrit7/JobPortal.git
+   git clone https://github.com/sushrit7/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly.git
    ```
 Contributing
 Contributions to improve and expand the project are welcome. Please follow the standard GitHub workflow:
