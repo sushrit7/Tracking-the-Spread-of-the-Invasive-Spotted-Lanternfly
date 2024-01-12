@@ -18,7 +18,7 @@ This repository is dedicated to tracking the spread of the invasive Spotted Lant
 
 ```
 ## Machine Learning Models
-The project utilizes Gradient Boosting Classifiers and Random Forest models for predicting the spread of the Spotted Lanternfly. The models have been trained on lydemapR dataset. The training code can be found in finallyde.ipynb.
+The project utilizes Gradient Boosting Classifiers and Random Forest models for predicting the spread of the Spotted Lanternfly. The models have been trained on lydemapR dataset. The training code can be found in lyde.ipynb.
 
 ## Visualizations
 Explore the visualizations folder to view PDF files containing visualizations of the dataset using Tableu.
